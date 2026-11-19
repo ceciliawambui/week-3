@@ -1,7 +1,10 @@
+import Footer from "./component/Footer"
 
 function App() {
   return (
-    <div>App</div>
+    <div>
+      <Footer/>
+    </div>
   )
 }
 
