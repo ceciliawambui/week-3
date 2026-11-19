@@ -1,9 +1,10 @@
-import Footer from "./components/Footer"
+import Footer from "./component/Footer"
 
 function App() {
   return (
     <div>
       <Footer/>
+      <Navbar/>
     </div>
   )
 }
