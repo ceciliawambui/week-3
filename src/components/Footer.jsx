@@ -2,7 +2,7 @@
 
 function Footer() {
   return (
-    <div>Footer</div>
+    <div>Social Links : Copyright</div>
   )
 }
 
